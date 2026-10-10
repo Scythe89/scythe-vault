@@ -45,6 +45,8 @@ footer{color:var(--mu);font-size:12px;text-align:center;line-height:1.6}
 body.compact .pd,body.compact .act.buy,body.compact .wf,body.compact .wl,body.compact .gauge,body.compact .pills,body.compact .sum,body.compact #cl-events .evm a{display:none}
 body.compact .win{padding:9px 12px;margin-top:7px}body.compact .act{margin-top:3px;font-size:13px}body.compact .act b{display:inline;margin-right:6px}body.compact .pat{padding:7px 0}body.compact .clab{margin:4px 0 10px}
 
+section>h2{cursor:pointer;user-select:none;-webkit-tap-highlight-color:transparent}section>h2::after{content:"\25BE";margin-left:auto;font-size:14px;opacity:.6;transition:transform .2s}section.coll>h2::after{transform:rotate(-90deg)}section.coll>:not(h2){display:none!important}section.coll{padding-bottom:4px}
+
 .cv,.cs{display:none}.rr{display:flex;gap:8px;align-items:baseline;flex:none}
 .cmp{position:fixed;right:12px;top:12px;z-index:20;border:0;border-radius:18px;padding:8px 12px;font:800 11px/1 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;letter-spacing:.06em;text-transform:uppercase;background:var(--acc);color:#08090c;box-shadow:0 6px 20px rgba(0,0,0,.5);cursor:pointer}
 body.compact .cv{display:inline;color:var(--tx);font-weight:700}body.compact .cs{display:inline}
@@ -378,8 +380,11 @@ body.compact section{padding:12px 14px}
 <div class="evt">Lunar New Year 2021 (red-envelope cash; China holiday week)</div>
 <div class="evm">Feb 12 – Feb 19, 2021 · China holiday <span class="st past">Past</span> · <span class="dn">volume -2.8 pts</span> <a class="src" href="https://www.chinesefortunecalendar.com/TDB/NewYearDays.asp" target="_blank" rel="noopener">Source ↗</a></div></div></div></details></section>
 </article>
-<footer>Activity is a basket of liquid Steam Market cases, capsules and skins, a stand-in for market-wide spending rather than a total.<br>Event effects come from small samples, and a Valve economy update can override any seasonal pattern.<br>Data from CS Market, generated Oct 9, 7:23 AM CT · Built Oct 10, 4:09 AM CT</footer>
-</main><button id="cmp" class="cmp" type="button" aria-pressed="false">Compact view</button>
+<footer>Activity is a basket of liquid Steam Market cases, capsules and skins, a stand-in for market-wide spending rather than a total.<br>Event effects come from small samples, and a Valve economy update can override any seasonal pattern.<br>Data from CS Market, generated Oct 9, 7:23 AM CT · Built Oct 10, 4:31 AM CT</footer>
+</main><!--cmp-start--><script>(function(){var K="sv_coll";var st={};try{st=JSON.parse(localStorage.getItem(K)||"{}")}catch(e){}
+document.querySelectorAll("section").forEach(function(sec,i){var h=sec.querySelector(":scope>h2");if(!h)return;var p=sec.closest(".panel");var k=(p?p.id:"pg")+":"+(sec.id||h.textContent.trim());if(st[k])sec.classList.add("coll");
+h.addEventListener("click",function(){sec.classList.toggle("coll");st[k]=sec.classList.contains("coll");try{localStorage.setItem(K,JSON.stringify(st))}catch(e){}})});})();</script>
+<button id="cmp" class="cmp" type="button" aria-pressed="false">Compact view</button>
 <script>(function(){var b=document.getElementById('cmp');
 function set(c){document.body.classList.toggle('compact',c);b.textContent=c?'Show details':'Compact view';b.setAttribute('aria-pressed',c);
 try{localStorage.setItem('sv_compact',c?'1':'0')}catch(e){}
@@ -387,4 +392,4 @@ document.querySelectorAll('details.tg').forEach(function(d){d.open=!c})}
 b.onclick=function(){set(!document.body.classList.contains('compact'))};
 function openHash(){var t=location.hash&&document.querySelector(location.hash);if(t&&t.tagName==='DETAILS')t.open=true}
 window.addEventListener('hashchange',openHash);
-try{if(localStorage.getItem('sv_compact')==='1')set(true)}catch(e){}openHash();})();</script></body></html>
+try{if(localStorage.getItem('sv_compact')==='1')set(true)}catch(e){}openHash();})();</script><!--cmp-end--></body></html>
