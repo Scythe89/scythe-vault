@@ -1,0 +1,284 @@
+{
+ "_comment": "REAL data exported by /workspace/widget/scripts/export_widget.py; null = not available in the source files.",
+ "schema": 3,
+ "generatedAt": "2026-10-10T03:47:01-05:00",
+ "dataDate": "2026-10-10",
+ "links": {
+  "site": "https://scythe89.github.io/scythe-vault/",
+  "csPage": "https://scythe89.github.io/scythe-vault/#daily",
+  "marketPage": "https://scythe89.github.io/scythe-vault/#desk",
+  "capsulesPage": "https://scythe89.github.io/scythe-vault/#capsules",
+  "climatePage": "https://scythe89.github.io/scythe-vault/#climate",
+  "rlPage": "https://scythe89.github.io/scythe-vault/rl.html"
+ },
+ "cs": {
+  "combinedPrevious": 7450.94,
+  "accounts": [
+   {
+    "account": "LuxScythe",
+    "rows": [
+     {
+      "date": "2026-10-08",
+      "totalItems": 904,
+      "uniqueItems": 705,
+      "marketableItems": 876,
+      "value": 6421.45,
+      "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
+      "topItemValue": 1696.69
+     }
+    ]
+   },
+   {
+    "account": "Scythe_2",
+    "rows": [
+     {
+      "date": "2026-10-09",
+      "totalItems": 264,
+      "uniqueItems": 106,
+      "marketableItems": 256,
+      "value": 1029.49,
+      "topItem": "★ Flip Knife | Urban Masked (Field-Tested)",
+      "topItemValue": 153.96
+     },
+     {
+      "date": "2026-10-08",
+      "totalItems": 264,
+      "uniqueItems": 106,
+      "marketableItems": 256,
+      "value": 1029.49,
+      "topItem": "★ Flip Knife | Urban Masked (Field-Tested)",
+      "topItemValue": 153.96
+     }
+    ]
+   }
+  ],
+  "signals": {
+   "date": "2026-10-09",
+   "sell": 3,
+   "hold": 4,
+   "items": [
+    {
+     "name": "Autograph Capsule | Challengers (Foil) | Cologne 2016",
+     "account": "LuxScythe",
+     "price": 86.57,
+     "avg30": 77.699,
+     "pct": 11.4,
+     "signal": "sell"
+    },
+    {
+     "name": "Boston 2018 Returning Challengers (Holo-Foil)",
+     "account": "LuxScythe",
+     "price": 62.08,
+     "avg30": 55.461,
+     "pct": 11.9,
+     "signal": "sell"
+    },
+    {
+     "name": "Boston 2018 Returning Challengers Autograph Capsule",
+     "account": "LuxScythe",
+     "price": 13.23,
+     "avg30": 15.272,
+     "pct": -13.4,
+     "signal": "hold"
+    },
+    {
+     "name": "Autograph Capsule | Team Liquid | Cologne 2016",
+     "account": "LuxScythe",
+     "price": 10.01,
+     "avg30": 12.368,
+     "pct": -19.1,
+     "signal": "hold"
+    },
+    {
+     "name": "Autograph Capsule | SK Gaming | Cologne 2016",
+     "account": "LuxScythe",
+     "price": 11.26,
+     "avg30": 9.584,
+     "pct": 17.5,
+     "signal": "sell"
+    },
+    {
+     "name": "Rio 2022 Contenders Sticker Capsule",
+     "account": "LuxScythe",
+     "price": 0.26,
+     "avg30": 0.314,
+     "pct": -17.2,
+     "signal": "hold"
+    },
+    {
+     "name": "Antwerp 2022 Legends Sticker Capsule",
+     "account": "LuxScythe",
+     "price": 0.43,
+     "avg30": 0.479,
+     "pct": -10.2,
+     "signal": "hold"
+    }
+   ],
+   "needYou": 3
+  },
+  "movers": [
+   {
+    "name": "SSG 08 | Blood in the Water (Minimal Wear)",
+    "short": "SSG 08 Blood in…",
+    "account": "LuxScythe",
+    "px": 107.54,
+    "avg": 354.44,
+    "diff": -246.9
+   },
+   {
+    "name": "★ Butterfly Knife | Slaughter (Factory New)",
+    "short": "★ Butterfly",
+    "account": "LuxScythe",
+    "px": 1696.69,
+    "avg": 1477.65,
+    "diff": 219.04
+   },
+   {
+    "name": "StatTrak™ AK-47 | Redline (Field-Tested)",
+    "short": "ST AK Redline",
+    "account": "LuxScythe",
+    "px": 75.8,
+    "avg": 30.12,
+    "diff": 45.68
+   },
+   {
+    "name": "M4A4 | 龍王 (Dragon King) (Factory New)",
+    "short": "M4A4 Dragon King",
+    "account": "LuxScythe",
+    "px": 61.2,
+    "avg": 19.68,
+    "diff": 41.52
+   },
+   {
+    "name": "USP-S | Cyrex (Factory New)",
+    "short": "USP-S Cyrex",
+    "account": "LuxScythe",
+    "px": 36.52,
+    "avg": 3.96,
+    "diff": 32.56
+   },
+   {
+    "name": "CZ75-Auto | Emerald (Factory New)",
+    "short": "CZ75-Auto Emera…",
+    "account": "LuxScythe",
+    "px": 32.21,
+    "avg": 56.66,
+    "diff": -24.45
+   }
+  ],
+  "moversSource": "sell_check_detail_2026-10-09.csv"
+ },
+ "rl": {
+  "account": "Scythe",
+  "snapshotDate": "2026-10-10",
+  "prevSessionDate": "2026-10-09",
+  "main": {
+   "key": "2s",
+   "playlist": "Ranked Doubles 2v2",
+   "rank": "Champion III",
+   "division": "Division II",
+   "mmr": 1353,
+   "matches": 20,
+   "prevMmr": 1353,
+   "prevRank": "Champion III",
+   "prevDivision": "Division II"
+  },
+  "others": [
+   {
+    "key": "3s",
+    "playlist": "Ranked Standard 3v3",
+    "rank": "Champion I",
+    "division": "Division II",
+    "mmr": 1119,
+    "matches": 23,
+    "prevMmr": 1119,
+    "prevRank": "Champion I",
+    "prevDivision": "Division II"
+   },
+   {
+    "key": "1s",
+    "playlist": "Ranked Duel 1v1",
+    "rank": "Diamond II",
+    "division": "Division II",
+    "mmr": 897,
+    "matches": 1,
+    "prevMmr": 897,
+    "prevRank": "Diamond II",
+    "prevDivision": "Division II"
+   }
+  ],
+  "hours": {
+   "main": 7243.0,
+   "alt": 1245.1,
+   "prevMain": 7243.0,
+   "prevAlt": 1245.1,
+   "mainName": "Scythe",
+   "altName": "Scythe 2"
+  },
+  "lastSession": {
+   "date": "Oct 9",
+   "matches": 2
+  }
+ },
+ "targets": [
+  {
+   "id": "all",
+   "name": "All bots",
+   "type": "team",
+   "icon": "ic_team_all"
+  },
+  {
+   "id": "cs_team",
+   "name": "CS team",
+   "type": "team",
+   "icon": "ic_team_cs"
+  },
+  {
+   "id": "cs_inventory",
+   "name": "CS Inventory",
+   "type": "bot",
+   "icon": "ic_bot_cs_inventory"
+  },
+  {
+   "id": "cs_market",
+   "name": "CS Market",
+   "type": "bot",
+   "icon": "ic_bot_cs_market"
+  },
+  {
+   "id": "rl_tracker",
+   "name": "RL Tracker",
+   "type": "bot",
+   "icon": "ic_bot_rl_tracker"
+  },
+  {
+   "id": "graphics_helper",
+   "name": "Graphics Helper",
+   "type": "bot",
+   "icon": "ic_bot_graphics"
+  },
+  {
+   "id": "grok_bot",
+   "name": "Grok Bot",
+   "type": "bot",
+   "icon": "ic_bot_grok"
+  }
+ ],
+ "siteCheck": {
+  "csCombined": {
+   "site": 7451,
+   "widget": 7451,
+   "match": true
+  },
+  "csAccounts": {
+   "LuxScythe": true,
+   "Scythe_2": true
+  },
+  "rlMain": {
+   "match": true
+  },
+  "rlHours": {
+   "match": true
+  }
+ }
+}
