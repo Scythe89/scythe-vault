@@ -1,8 +1,8 @@
 {
  "_comment": "REAL data exported by /workspace/widget/scripts/export_widget.py; null = not available in the source files.",
  "schema": 3,
- "generatedAt": "2026-10-10T21:53:09-05:00",
- "dataDate": "2026-10-10",
+ "generatedAt": "2026-10-11T06:54:20-05:00",
+ "dataDate": "2026-10-11",
  "links": {
   "site": "https://scythe89.github.io/scythe-vault/",
   "csPage": "https://scythe89.github.io/scythe-vault/#daily",
@@ -12,13 +12,13 @@
   "rlPage": "https://scythe89.github.io/scythe-vault/rl.html"
  },
  "cs": {
-  "combinedPrevious": 13655.98,
+  "combinedPrevious": 13611.97,
   "accounts": [
    {
     "account": "LuxScythe",
     "rows": [
      {
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "totalItems": 1596,
       "uniqueItems": 710,
       "marketableItems": 1568,
@@ -27,11 +27,11 @@
       "topItemValue": 1696.69
      },
      {
-      "date": "2026-10-08",
+      "date": "2026-10-10",
       "totalItems": 1596,
-      "uniqueItems": 705,
+      "uniqueItems": 710,
       "marketableItems": 1568,
-      "value": 12626.49,
+      "value": 12582.48,
       "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
       "topItemValue": 1696.69
      }
@@ -62,7 +62,7 @@
    }
   ],
   "signals": {
-   "date": "2026-10-10",
+   "date": "2026-10-11",
    "sell": 4,
    "hold": 3,
    "items": [
@@ -70,25 +70,9 @@
      "name": "Autograph Capsule | Challengers (Foil) | Cologne 2016",
      "account": "LuxScythe",
      "price": 86.57,
-     "avg30": 77.699,
-     "pct": 11.4,
+     "avg30": 79.285,
+     "pct": 9.2,
      "signal": "sell"
-    },
-    {
-     "name": "Autograph Capsule | SK Gaming | Cologne 2016",
-     "account": "LuxScythe",
-     "price": 11.26,
-     "avg30": 9.584,
-     "pct": 17.5,
-     "signal": "sell"
-    },
-    {
-     "name": "Autograph Capsule | Team Liquid | Cologne 2016",
-     "account": "LuxScythe",
-     "price": 10.01,
-     "avg30": 11.252,
-     "pct": -11.0,
-     "signal": "hold"
     },
     {
      "name": "Boston 2018 Returning Challengers (Holo-Foil)",
@@ -99,27 +83,43 @@
      "signal": "sell"
     },
     {
-     "name": "Boston 2018 Returning Challengers Autograph Capsule",
+     "name": "Autograph Capsule | SK Gaming | Cologne 2016",
      "account": "LuxScythe",
-     "price": 13.23,
-     "avg30": 15.025,
-     "pct": -11.9,
-     "signal": "hold"
+     "price": 11.26,
+     "avg30": 9.737,
+     "pct": 15.6,
+     "signal": "sell"
     },
     {
      "name": "Rio 2022 Challengers Autograph Capsule",
      "account": "LuxScythe",
      "price": 0.4,
-     "avg30": 0.359,
-     "pct": 11.4,
+     "avg30": 0.358,
+     "pct": 11.7,
      "signal": "sell"
+    },
+    {
+     "name": "Boston 2018 Returning Challengers Autograph Capsule",
+     "account": "LuxScythe",
+     "price": 13.23,
+     "avg30": 14.837,
+     "pct": -10.8,
+     "signal": "hold"
+    },
+    {
+     "name": "Autograph Capsule | Team Liquid | Cologne 2016",
+     "account": "LuxScythe",
+     "price": 10.01,
+     "avg30": 11.628,
+     "pct": -13.9,
+     "signal": "hold"
     },
     {
      "name": "Rio 2022 Contenders Sticker Capsule",
      "account": "LuxScythe",
      "price": 0.26,
-     "avg30": 0.312,
-     "pct": -16.7,
+     "avg30": 0.31,
+     "pct": -16.1,
      "signal": "hold"
     }
    ],
@@ -175,7 +175,7 @@
     "diff": -24.45
    }
   ],
-  "moversSource": "sell_check_detail_2026-10-10.csv"
+  "moversSource": "sell_check_detail_2026-10-11.csv"
  },
  "rl": {
   "account": "Scythe",
