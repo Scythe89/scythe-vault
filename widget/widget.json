@@ -1,7 +1,7 @@
 {
  "_comment": "REAL data exported by /workspace/widget/scripts/export_widget.py; null = not available in the source files.",
  "schema": 3,
- "generatedAt": "2026-10-11T06:54:20-05:00",
+ "generatedAt": "2026-10-11T21:54:40-05:00",
  "dataDate": "2026-10-11",
  "links": {
   "site": "https://scythe89.github.io/scythe-vault/",
@@ -41,16 +41,16 @@
     "account": "Scythe_2",
     "rows": [
      {
-      "date": "2026-10-09",
+      "date": "2026-10-11",
       "totalItems": 264,
       "uniqueItems": 106,
       "marketableItems": 256,
-      "value": 1029.49,
+      "value": 1023.37,
       "topItem": "★ Flip Knife | Urban Masked (Field-Tested)",
       "topItemValue": 153.96
      },
      {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "totalItems": 264,
       "uniqueItems": 106,
       "marketableItems": 256,
@@ -179,7 +179,7 @@
  },
  "rl": {
   "account": "Scythe",
-  "snapshotDate": "2026-10-10",
+  "snapshotDate": "2026-10-11",
   "prevSessionDate": "2026-10-09",
   "main": {
    "key": "2s",
@@ -225,7 +225,7 @@
    "altName": "Scythe 2"
   },
   "lastSession": {
-   "date": "Oct 9",
+   "date": null,
    "matches": 2
   }
  },
@@ -276,12 +276,12 @@
  "siteCheck": {
   "csCombined": {
    "site": 13612,
-   "widget": 13612,
-   "match": true
+   "widget": 13606,
+   "match": false
   },
   "csAccounts": {
    "LuxScythe": true,
-   "Scythe_2": true
+   "Scythe_2": false
   },
   "rlMain": {
    "match": true
