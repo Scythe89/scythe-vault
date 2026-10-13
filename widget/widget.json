@@ -1,7 +1,7 @@
 {
  "_comment": "REAL data exported by /workspace/widget/scripts/export_widget.py; null = not available in the source files.",
  "schema": 3,
- "generatedAt": "2026-10-13T07:26:52-05:00",
+ "generatedAt": "2026-10-13T08:05:47-05:00",
  "dataDate": "2026-10-13",
  "links": {
   "site": "https://scythe89.github.io/scythe-vault/",
@@ -63,7 +63,7 @@
   ],
   "signals": {
    "date": "2026-10-13",
-   "sell": 0,
+   "sell": 137,
    "hold": 3,
    "items": [
     {
@@ -195,7 +195,7 @@
      "signal": "hold"
     }
    ],
-   "needYou": 0
+   "needYou": 137
   },
   "movers": [
    {
