@@ -1,7 +1,7 @@
 {
  "_comment": "REAL data exported by /workspace/widget/scripts/export_widget.py; null = not available in the source files.",
  "schema": 3,
- "generatedAt": "2026-10-13T07:00:01-05:00",
+ "generatedAt": "2026-10-13T07:22:05-05:00",
  "dataDate": "2026-10-13",
  "links": {
   "site": "https://scythe89.github.io/scythe-vault/",
@@ -12,11 +12,20 @@
   "rlPage": "https://scythe89.github.io/scythe-vault/rl.html"
  },
  "cs": {
-  "combinedPrevious": 13564.66,
+  "combinedPrevious": 13679.84,
   "accounts": [
    {
     "account": "LuxScythe",
     "rows": [
+     {
+      "date": "2026-10-13",
+      "totalItems": 1596,
+      "uniqueItems": 710,
+      "marketableItems": 1568,
+      "value": 12465.42,
+      "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
+      "topItemValue": 1716.13
+     },
      {
       "date": "2026-10-12",
       "totalItems": 1596,
@@ -25,15 +34,6 @@
       "value": 12624.08,
       "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
       "topItemValue": 1800.01
-     },
-     {
-      "date": "2026-10-11",
-      "totalItems": 1596,
-      "uniqueItems": 710,
-      "marketableItems": 1568,
-      "value": 12508.9,
-      "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
-      "topItemValue": 1779.35
      }
     ]
    },
@@ -355,11 +355,11 @@
  "siteCheck": {
   "csCombined": {
    "site": 13680,
-   "widget": 13656,
+   "widget": 13497,
    "match": false
   },
   "csAccounts": {
-   "LuxScythe": true,
+   "LuxScythe": false,
    "Scythe_2": false
   },
   "rlMain": {
