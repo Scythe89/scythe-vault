@@ -1,7 +1,7 @@
 {
  "_comment": "REAL data exported by /workspace/widget/scripts/export_widget.py; null = not available in the source files.",
  "schema": 3,
- "generatedAt": "2026-10-12T06:53:46-05:00",
+ "generatedAt": "2026-10-12T21:52:59-05:00",
  "dataDate": "2026-10-12",
  "links": {
   "site": "https://scythe89.github.io/scythe-vault/",
@@ -12,28 +12,28 @@
   "rlPage": "https://scythe89.github.io/scythe-vault/rl.html"
  },
  "cs": {
-  "combinedPrevious": 13605.85,
+  "combinedPrevious": 13472.97,
   "accounts": [
    {
     "account": "LuxScythe",
     "rows": [
      {
+      "date": "2026-10-12",
+      "totalItems": 1596,
+      "uniqueItems": 710,
+      "marketableItems": 1568,
+      "value": 12624.08,
+      "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
+      "topItemValue": 1800.01
+     },
+     {
       "date": "2026-10-11",
       "totalItems": 1596,
       "uniqueItems": 710,
       "marketableItems": 1568,
-      "value": 12582.48,
+      "value": 12474.66,
       "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
-      "topItemValue": 1696.69
-     },
-     {
-      "date": "2026-10-10",
-      "totalItems": 1596,
-      "uniqueItems": 710,
-      "marketableItems": 1568,
-      "value": 12582.48,
-      "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
-      "topItemValue": 1696.69
+      "topItemValue": 1779.35
      }
     ]
    },
@@ -45,18 +45,18 @@
       "totalItems": 264,
       "uniqueItems": 106,
       "marketableItems": 256,
-      "value": 1367.71,
-      "topItem": "M4A4 | Griffin (Factory New)",
-      "topItemValue": 198.45
+      "value": 1055.76,
+      "topItem": "★ Flip Knife | Urban Masked (Field-Tested)",
+      "topItemValue": 143.11
      },
      {
       "date": "2026-10-11",
       "totalItems": 264,
       "uniqueItems": 106,
       "marketableItems": 256,
-      "value": 1023.37,
+      "value": 998.31,
       "topItem": "★ Flip Knife | Urban Masked (Field-Tested)",
-      "topItemValue": 153.96
+      "topItemValue": 127.59
      }
     ]
    }
@@ -191,19 +191,26 @@
     "diff": -24.45
    }
   ],
-  "moversSource": "sell_check_detail_2026-10-11.csv"
+  "moversSource": "sell_check_detail_2026-10-11.csv",
+  "frameFund": {
+   "wallet": 185.53,
+   "goal": 1328.0,
+   "short": 1142.47,
+   "label": "Steam Frame 1TB + 45W power supply",
+   "updated": "2026-10-12"
+  }
  },
  "rl": {
   "account": "Scythe",
-  "snapshotDate": "2026-10-11",
-  "prevSessionDate": "2026-10-09",
+  "snapshotDate": "2026-10-12",
+  "prevSessionDate": "2026-10-11",
   "main": {
    "key": "2s",
    "playlist": "Ranked Doubles 2v2",
    "rank": "Champion III",
    "division": "Division II",
-   "mmr": 1353,
-   "matches": 20,
+   "mmr": 1364,
+   "matches": 27,
    "prevMmr": 1353,
    "prevRank": "Champion III",
    "prevDivision": "Division II"
@@ -233,7 +240,7 @@
    }
   ],
   "hours": {
-   "main": 7243.0,
+   "main": 7244.0,
    "alt": 1245.1,
    "prevMain": 7243.0,
    "prevAlt": 1245.1,
@@ -241,8 +248,8 @@
    "altName": "Scythe 2"
   },
   "lastSession": {
-   "date": null,
-   "matches": 2
+   "date": "Oct 12",
+   "matches": 7
   }
  },
  "targets": [
@@ -291,19 +298,19 @@
  ],
  "siteCheck": {
   "csCombined": {
-   "site": 13612,
-   "widget": 13950,
-   "match": false
+   "site": 13680,
+   "widget": 13680,
+   "match": true
   },
   "csAccounts": {
    "LuxScythe": true,
-   "Scythe_2": false
+   "Scythe_2": true
   },
   "rlMain": {
-   "match": true
+   "match": false
   },
   "rlHours": {
-   "match": true
+   "match": false
   }
  }
 }
