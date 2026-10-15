@@ -1,7 +1,7 @@
 {
  "_comment": "REAL data exported by /workspace/widget/scripts/export_widget.py; null = not available in the source files.",
  "schema": 3,
- "generatedAt": "2026-10-14T07:52:29-05:00",
+ "generatedAt": "2026-10-14T23:28:52-05:00",
  "dataDate": "2026-10-14",
  "links": {
   "site": "https://scythe89.github.io/scythe-vault/",
@@ -22,7 +22,7 @@
       "totalItems": 1596,
       "uniqueItems": 710,
       "marketableItems": 1568,
-      "value": 12620.76,
+      "value": 12620.93,
       "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
       "topItemValue": 1800.01
      },
@@ -258,16 +258,16 @@
  },
  "rl": {
   "account": "Scythe",
-  "snapshotDate": "2026-10-13",
-  "prevSessionDate": "2026-10-11",
+  "snapshotDate": "2026-10-14",
+  "prevSessionDate": "2026-10-13",
   "main": {
    "key": "2s",
    "playlist": "Ranked Doubles 2v2",
    "rank": "Champion III",
    "division": "Division II",
-   "mmr": 1364,
-   "matches": 27,
-   "prevMmr": 1353,
+   "mmr": 1354,
+   "matches": 30,
+   "prevMmr": 1364,
    "prevRank": "Champion III",
    "prevDivision": "Division II"
   },
@@ -277,8 +277,8 @@
     "playlist": "Ranked Standard 3v3",
     "rank": "Champion I",
     "division": "Division II",
-    "mmr": 1119,
-    "matches": 23,
+    "mmr": 1096,
+    "matches": 25,
     "prevMmr": 1119,
     "prevRank": "Champion I",
     "prevDivision": "Division II"
@@ -296,16 +296,16 @@
    }
   ],
   "hours": {
-   "main": 7244.0,
-   "alt": 1245.1,
-   "prevMain": 7243.0,
+   "main": 7245.0,
+   "alt": 1245.9,
+   "prevMain": 7244.0,
    "prevAlt": 1245.1,
    "mainName": "Scythe",
    "altName": "Scythe 2"
   },
   "lastSession": {
-   "date": "Oct 12",
-   "matches": 7
+   "date": "Oct 14",
+   "matches": 3
   }
  },
  "targets": [
