@@ -1,8 +1,8 @@
 {
  "_comment": "REAL data exported by /workspace/widget/scripts/export_widget.py; null = not available in the source files.",
  "schema": 3,
- "generatedAt": "2026-10-25T23:26:14-05:00",
- "dataDate": "2026-10-25",
+ "generatedAt": "2026-10-26T07:32:13-05:00",
+ "dataDate": "2026-10-26",
  "links": {
   "site": "https://scythe89.github.io/scythe-vault/",
   "csPage": "https://scythe89.github.io/scythe-vault/#daily",
@@ -12,11 +12,20 @@
   "rlPage": "https://scythe89.github.io/scythe-vault/rl.html"
  },
  "cs": {
-  "combinedPrevious": 13166.59,
+  "combinedPrevious": 13708.15,
   "accounts": [
    {
     "account": "LuxScythe",
     "rows": [
+     {
+      "date": "2026-10-26",
+      "totalItems": 1596,
+      "uniqueItems": 710,
+      "marketableItems": 1568,
+      "value": 12686.63,
+      "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
+      "topItemValue": 1801.19
+     },
      {
       "date": "2026-10-25",
       "totalItems": 1596,
@@ -25,21 +34,21 @@
       "value": 12682.31,
       "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
       "topItemValue": 1800.0
-     },
-     {
-      "date": "2026-10-24",
-      "totalItems": 1596,
-      "uniqueItems": 710,
-      "marketableItems": 1568,
-      "value": 12142.23,
-      "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
-      "topItemValue": 1691.03
      }
     ]
    },
    {
     "account": "Scythe_2",
     "rows": [
+     {
+      "date": "2026-10-26",
+      "totalItems": 264,
+      "uniqueItems": 106,
+      "marketableItems": 256,
+      "value": 1020.03,
+      "topItem": "★ Flip Knife | Urban Masked (Field-Tested)",
+      "topItemValue": 143.11
+     },
      {
       "date": "2026-10-25",
       "totalItems": 264,
@@ -48,21 +57,12 @@
       "value": 1025.84,
       "topItem": "★ Flip Knife | Urban Masked (Field-Tested)",
       "topItemValue": 143.04
-     },
-     {
-      "date": "2026-10-24",
-      "totalItems": 264,
-      "uniqueItems": 106,
-      "marketableItems": 256,
-      "value": 1024.36,
-      "topItem": "★ Flip Knife | Urban Masked (Field-Tested)",
-      "topItemValue": 143.04
      }
     ]
    }
   ],
   "signals": {
-   "date": "2026-10-25",
+   "date": "2026-10-26",
    "sell": 61,
    "hold": 4,
    "items": [
@@ -83,19 +83,19 @@
      "signal": "list_now"
     },
     {
-     "name": "Autograph Capsule | Legends (Foil) | Cologne 2016",
-     "account": "LuxScythe",
-     "price": 47.198,
-     "avg30": 45.6416,
-     "pct": 3.41,
-     "signal": "list_now"
-    },
-    {
      "name": "ESL One Katowice 2015 Legends (Holo-Foil)",
      "account": "LuxScythe",
      "price": 213.62,
      "avg30": 200.172,
      "pct": 6.72,
+     "signal": "list_now"
+    },
+    {
+     "name": "Autograph Capsule | Legends (Foil) | Cologne 2016",
+     "account": "LuxScythe",
+     "price": 47.198,
+     "avg30": 45.6416,
+     "pct": 3.41,
      "signal": "list_now"
     },
     {
@@ -335,28 +335,36 @@
   },
   "movers": [
    {
-    "name": "★ Butterfly Knife | Slaughter (Factory New)",
-    "short": "★ Butterfly",
-    "account": "LuxScythe",
-    "px": 1691.03,
-    "avg": 1774.37,
-    "diff": -83.34
-   },
-   {
     "name": "StatTrak™ AK-47 | Redline (Field-Tested)",
     "short": "ST AK Redline",
     "account": "LuxScythe",
-    "px": 65.65,
+    "px": 67.77,
     "avg": 99.2,
-    "diff": -33.55
+    "diff": -31.43
+   },
+   {
+    "name": "★ Butterfly Knife | Slaughter (Factory New)",
+    "short": "★ Butterfly",
+    "account": "LuxScythe",
+    "px": 1800.0,
+    "avg": 1774.37,
+    "diff": 25.63
    },
    {
     "name": "USP-S | Neo-Noir (Field-Tested)",
     "short": "USP-S Neo-Noir",
     "account": "LuxScythe",
-    "px": 106.67,
+    "px": 106.22,
     "avg": 127.08,
-    "diff": -20.41
+    "diff": -20.86
+   },
+   {
+    "name": "M4A1-S | Hyper Beast (Field-Tested)",
+    "short": "M4A1-S Hyper Be…",
+    "account": "LuxScythe",
+    "px": 128.36,
+    "avg": 146.0,
+    "diff": -17.64
    },
    {
     "name": "M4A4 | 龍王 (Dragon King) (Factory New)",
@@ -367,23 +375,15 @@
     "diff": -17.55
    },
    {
-    "name": "M4A1-S | Hyper Beast (Field-Tested)",
-    "short": "M4A1-S Hyper Be…",
+    "name": "AK-47 | Fuel Injector (Battle-Scarred)",
+    "short": "AK Fuel Injector",
     "account": "LuxScythe",
-    "px": 128.68,
-    "avg": 146.0,
-    "diff": -17.32
-   },
-   {
-    "name": "StatTrak™ MAC-10 | Neon Rider (Field-Tested)",
-    "short": "ST MAC-10 Neon…",
-    "account": "LuxScythe",
-    "px": 141.75,
-    "avg": 155.86,
-    "diff": -14.11
+    "px": 96.36,
+    "avg": 111.34,
+    "diff": -14.98
    }
   ],
-  "moversSource": "sell_check_detail_2026-10-25.csv",
+  "moversSource": "sell_check_detail_2026-10-26.csv",
   "frameFund": {
    "wallet": 185.53,
    "goal": 1328.0,
@@ -492,12 +492,12 @@
  "siteCheck": {
   "csCombined": {
    "site": 13708,
-   "widget": 13708,
-   "match": true
+   "widget": 13707,
+   "match": false
   },
   "csAccounts": {
-   "LuxScythe": true,
-   "Scythe_2": true
+   "LuxScythe": false,
+   "Scythe_2": false
   },
   "rlMain": {
    "match": false
