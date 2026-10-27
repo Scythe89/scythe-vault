@@ -1,7 +1,7 @@
 {
  "_comment": "REAL data exported by /workspace/widget/scripts/export_widget.py; null = not available in the source files.",
  "schema": 3,
- "generatedAt": "2026-10-26T07:32:13-05:00",
+ "generatedAt": "2026-10-26T23:32:37-05:00",
  "dataDate": "2026-10-26",
  "links": {
   "site": "https://scythe89.github.io/scythe-vault/",
@@ -395,16 +395,16 @@
  },
  "rl": {
   "account": "Scythe",
-  "snapshotDate": "2026-10-25",
-  "prevSessionDate": "2026-10-23",
+  "snapshotDate": "2026-10-26",
+  "prevSessionDate": "2026-10-25",
   "main": {
    "key": "2s",
    "playlist": "Ranked Doubles 2v2",
    "rank": "Champion III",
    "division": "Division III",
-   "mmr": 1374,
-   "matches": 46,
-   "prevMmr": 1392,
+   "mmr": 1375,
+   "matches": 48,
+   "prevMmr": 1374,
    "prevRank": "Champion III",
    "prevDivision": "Division III"
   },
@@ -416,7 +416,7 @@
     "division": "Division I",
     "mmr": 1089,
     "matches": 37,
-    "prevMmr": 1091,
+    "prevMmr": 1089,
     "prevRank": "Champion I",
     "prevDivision": "Division I"
    },
@@ -441,7 +441,7 @@
    "altName": "Scythe 2"
   },
   "lastSession": {
-   "date": "Oct 23",
+   "date": "Oct 25",
    "matches": 2
   }
  },
@@ -491,13 +491,13 @@
  ],
  "siteCheck": {
   "csCombined": {
-   "site": 13708,
+   "site": 13707,
    "widget": 13707,
-   "match": false
+   "match": true
   },
   "csAccounts": {
-   "LuxScythe": false,
-   "Scythe_2": false
+   "LuxScythe": true,
+   "Scythe_2": true
   },
   "rlMain": {
    "match": false
