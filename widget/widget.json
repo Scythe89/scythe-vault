@@ -1,8 +1,8 @@
 {
  "_comment": "REAL data exported by /workspace/widget/scripts/export_widget.py; null = not available in the source files.",
  "schema": 3,
- "generatedAt": "2026-10-27T23:25:17-05:00",
- "dataDate": "2026-10-27",
+ "generatedAt": "2026-10-28T07:25:58-05:00",
+ "dataDate": "2026-10-28",
  "links": {
   "site": "https://scythe89.github.io/scythe-vault/",
   "csPage": "https://scythe89.github.io/scythe-vault/#daily",
@@ -12,11 +12,20 @@
   "rlPage": "https://scythe89.github.io/scythe-vault/rl.html"
  },
  "cs": {
-  "combinedPrevious": 13706.66,
+  "combinedPrevious": 13636.47,
   "accounts": [
    {
     "account": "LuxScythe",
     "rows": [
+     {
+      "date": "2026-10-28",
+      "totalItems": 1596,
+      "uniqueItems": 710,
+      "marketableItems": 1568,
+      "value": 12465.78,
+      "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
+      "topItemValue": 1789.14
+     },
      {
       "date": "2026-10-27",
       "totalItems": 1596,
@@ -25,21 +34,21 @@
       "value": 12621.69,
       "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
       "topItemValue": 1789.92
-     },
-     {
-      "date": "2026-10-26",
-      "totalItems": 1596,
-      "uniqueItems": 710,
-      "marketableItems": 1568,
-      "value": 12686.63,
-      "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
-      "topItemValue": 1801.19
      }
     ]
    },
    {
     "account": "Scythe_2",
     "rows": [
+     {
+      "date": "2026-10-28",
+      "totalItems": 264,
+      "uniqueItems": 106,
+      "marketableItems": 256,
+      "value": 996.21,
+      "topItem": "★ Flip Knife | Urban Masked (Field-Tested)",
+      "topItemValue": 143.11
+     },
      {
       "date": "2026-10-27",
       "totalItems": 264,
@@ -48,21 +57,12 @@
       "value": 1014.78,
       "topItem": "★ Flip Knife | Urban Masked (Field-Tested)",
       "topItemValue": 143.11
-     },
-     {
-      "date": "2026-10-26",
-      "totalItems": 264,
-      "uniqueItems": 106,
-      "marketableItems": 256,
-      "value": 1020.03,
-      "topItem": "★ Flip Knife | Urban Masked (Field-Tested)",
-      "topItemValue": 143.11
      }
     ]
    }
   ],
   "signals": {
-   "date": "2026-10-27",
+   "date": "2026-10-28",
    "sell": 60,
    "hold": 4,
    "items": [
@@ -338,52 +338,52 @@
     "name": "StatTrak™ AK-47 | Redline (Field-Tested)",
     "short": "ST AK Redline",
     "account": "LuxScythe",
-    "px": 68.82,
+    "px": 69.44,
     "avg": 99.2,
-    "diff": -30.38
-   },
-   {
-    "name": "★ Butterfly Knife | Slaughter (Factory New)",
-    "short": "★ Butterfly",
-    "account": "LuxScythe",
-    "px": 1801.19,
-    "avg": 1774.37,
-    "diff": 26.82
+    "diff": -29.76
    },
    {
     "name": "USP-S | Neo-Noir (Field-Tested)",
     "short": "USP-S Neo-Noir",
     "account": "LuxScythe",
-    "px": 106.46,
+    "px": 105.98,
     "avg": 127.08,
-    "diff": -20.62
+    "diff": -21.1
    },
    {
     "name": "M4A4 | 龍王 (Dragon King) (Factory New)",
     "short": "M4A4 Dragon King",
     "account": "LuxScythe",
-    "px": 47.01,
+    "px": 46.78,
     "avg": 65.5,
-    "diff": -18.49
+    "diff": -18.72
    },
    {
     "name": "M4A1-S | Hyper Beast (Field-Tested)",
     "short": "M4A1-S Hyper Be…",
     "account": "LuxScythe",
-    "px": 128.33,
+    "px": 127.55,
     "avg": 146.0,
-    "diff": -17.67
+    "diff": -18.45
    },
    {
-    "name": "StatTrak™ MAC-10 | Neon Rider (Field-Tested)",
-    "short": "ST MAC-10 Neon…",
+    "name": "AK-47 | Fuel Injector (Battle-Scarred)",
+    "short": "AK Fuel Injector",
     "account": "LuxScythe",
-    "px": 141.98,
-    "avg": 155.86,
-    "diff": -13.88
+    "px": 94.29,
+    "avg": 111.34,
+    "diff": -17.05
+   },
+   {
+    "name": "M4A4 | Griffin (Factory New)",
+    "short": "M4A4 Griffin",
+    "account": "Scythe_2",
+    "px": 81.75,
+    "avg": 97.29,
+    "diff": -15.54
    }
   ],
-  "moversSource": "sell_check_detail_2026-10-27.csv",
+  "moversSource": "sell_check_detail_2026-10-28.csv",
   "frameFund": {
    "wallet": 185.53,
    "goal": 1328.0,
@@ -492,12 +492,12 @@
  "siteCheck": {
   "csCombined": {
    "site": 13636,
-   "widget": 13636,
-   "match": true
+   "widget": 13462,
+   "match": false
   },
   "csAccounts": {
-   "LuxScythe": true,
-   "Scythe_2": true
+   "LuxScythe": false,
+   "Scythe_2": false
   },
   "rlMain": {
    "match": false
