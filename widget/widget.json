@@ -1,7 +1,7 @@
 {
  "_comment": "REAL data exported by /workspace/widget/scripts/export_widget.py; null = not available in the source files.",
  "schema": 3,
- "generatedAt": "2026-10-30T07:24:23-05:00",
+ "generatedAt": "2026-10-30T23:25:35-05:00",
  "dataDate": "2026-10-30",
  "links": {
   "site": "https://scythe89.github.io/scythe-vault/",
@@ -22,7 +22,7 @@
       "totalItems": 1596,
       "uniqueItems": 710,
       "marketableItems": 1568,
-      "value": 12781.09,
+      "value": 12697.95,
       "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
       "topItemValue": 1858.64
      },
@@ -45,7 +45,7 @@
       "totalItems": 264,
       "uniqueItems": 106,
       "marketableItems": 256,
-      "value": 998.09,
+      "value": 968.47,
       "topItem": "★ Flip Knife | Urban Masked (Field-Tested)",
       "topItemValue": 149.5
      },
@@ -371,7 +371,7 @@
  },
  "rl": {
   "account": "Scythe",
-  "snapshotDate": "2026-10-29",
+  "snapshotDate": "2026-10-30",
   "prevSessionDate": "2026-10-25",
   "main": {
    "key": "2s",
@@ -467,13 +467,13 @@
  ],
  "siteCheck": {
   "csCombined": {
-   "site": 13319,
-   "widget": 13779,
-   "match": false
+   "site": 13666,
+   "widget": 13666,
+   "match": true
   },
   "csAccounts": {
-   "LuxScythe": false,
-   "Scythe_2": false
+   "LuxScythe": true,
+   "Scythe_2": true
   },
   "rlMain": {
    "match": false
