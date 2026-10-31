@@ -1,8 +1,8 @@
 {
  "_comment": "REAL data exported by /workspace/widget/scripts/export_widget.py; null = not available in the source files.",
  "schema": 3,
- "generatedAt": "2026-10-30T23:25:35-05:00",
- "dataDate": "2026-10-30",
+ "generatedAt": "2026-10-31T07:29:34-05:00",
+ "dataDate": "2026-10-31",
  "links": {
   "site": "https://scythe89.github.io/scythe-vault/",
   "csPage": "https://scythe89.github.io/scythe-vault/#daily",
@@ -12,11 +12,20 @@
   "rlPage": "https://scythe89.github.io/scythe-vault/rl.html"
  },
  "cs": {
-  "combinedPrevious": 13319.11,
+  "combinedPrevious": 13666.42,
   "accounts": [
    {
     "account": "LuxScythe",
     "rows": [
+     {
+      "date": "2026-10-31",
+      "totalItems": 1596,
+      "uniqueItems": 710,
+      "marketableItems": 1568,
+      "value": 12710.75,
+      "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
+      "topItemValue": 1919.29
+     },
      {
       "date": "2026-10-30",
       "totalItems": 1596,
@@ -25,21 +34,21 @@
       "value": 12697.95,
       "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
       "topItemValue": 1858.64
-     },
-     {
-      "date": "2026-10-29",
-      "totalItems": 1596,
-      "uniqueItems": 710,
-      "marketableItems": 1568,
-      "value": 12330.47,
-      "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
-      "topItemValue": 1800.32
      }
     ]
    },
    {
     "account": "Scythe_2",
     "rows": [
+     {
+      "date": "2026-10-31",
+      "totalItems": 264,
+      "uniqueItems": 106,
+      "marketableItems": 256,
+      "value": 969.87,
+      "topItem": "★ Flip Knife | Urban Masked (Field-Tested)",
+      "topItemValue": 149.5
+     },
      {
       "date": "2026-10-30",
       "totalItems": 264,
@@ -48,22 +57,13 @@
       "value": 968.47,
       "topItem": "★ Flip Knife | Urban Masked (Field-Tested)",
       "topItemValue": 149.5
-     },
-     {
-      "date": "2026-10-29",
-      "totalItems": 264,
-      "uniqueItems": 106,
-      "marketableItems": 256,
-      "value": 988.64,
-      "topItem": "★ Flip Knife | Urban Masked (Field-Tested)",
-      "topItemValue": 143.11
      }
     ]
    }
   ],
   "signals": {
-   "date": "2026-10-30",
-   "sell": 60,
+   "date": "2026-10-31",
+   "sell": 61,
    "hold": 3,
    "items": [
     {
@@ -227,14 +227,6 @@
      "signal": "list_now"
     },
     {
-     "name": "Antwerp 2022 Legends Autograph Capsule",
-     "account": "LuxScythe",
-     "price": 0.3788,
-     "avg30": 0.3703,
-     "pct": 2.31,
-     "signal": "list_now"
-    },
-    {
      "name": "Budapest 2025 Legends Autograph Capsule",
      "account": "LuxScythe",
      "price": 0.3367,
@@ -251,11 +243,11 @@
      "signal": "list_now"
     },
     {
-     "name": "Antwerp 2022 Challengers Autograph Capsule",
+     "name": "Antwerp 2022 Legends Autograph Capsule",
      "account": "LuxScythe",
-     "price": 0.3206,
-     "avg30": 0.3134,
-     "pct": 2.3,
+     "price": 0.3788,
+     "avg30": 0.3703,
+     "pct": 2.31,
      "signal": "list_now"
     },
     {
@@ -272,6 +264,14 @@
      "price": 0.2586,
      "avg30": 0.2553,
      "pct": 1.28,
+     "signal": "list_now"
+    },
+    {
+     "name": "Antwerp 2022 Challengers Autograph Capsule",
+     "account": "LuxScythe",
+     "price": 0.3206,
+     "avg30": 0.3134,
+     "pct": 2.3,
      "signal": "list_now"
     },
     {
@@ -307,7 +307,7 @@
      "signal": "list_now"
     }
    ],
-   "needYou": 60
+   "needYou": 61
   },
   "movers": [
    {
@@ -319,20 +319,20 @@
     "diff": 96.7
    },
    {
-    "name": "M4A4 | Griffin (Factory New)",
-    "short": "M4A4 Griffin",
-    "account": "Scythe_2",
-    "px": 75.0,
-    "avg": 97.29,
-    "diff": -22.29
-   },
-   {
     "name": "ESL One Katowice 2015 Legends (Holo-Foil)",
     "short": "ESL One Katowic…",
     "account": "LuxScythe",
     "px": 170.98,
     "avg": 193.2437,
     "diff": -22.26
+   },
+   {
+    "name": "M4A4 | Griffin (Factory New)",
+    "short": "M4A4 Griffin",
+    "account": "Scythe_2",
+    "px": 75.08,
+    "avg": 97.29,
+    "diff": -22.21
    },
    {
     "name": "Sawed-Off | Wasteland Princess (Field-Tested)",
@@ -351,15 +351,15 @@
     "diff": -19.53
    },
    {
-    "name": "MP9 | Hot Rod (Factory New)",
-    "short": "MP9 Hot Rod",
+    "name": "AK-47 | Fuel Injector (Battle-Scarred)",
+    "short": "AK Fuel Injector",
     "account": "LuxScythe",
-    "px": 221.06,
-    "avg": 233.73,
-    "diff": -12.67
+    "px": 94.11,
+    "avg": 108.23,
+    "diff": -14.12
    }
   ],
-  "moversSource": "sell_check_detail_2026-10-30.csv",
+  "moversSource": "sell_check_detail_2026-10-31.csv",
   "frameFund": {
    "wallet": 185.53,
    "goal": 1328.0,
@@ -468,12 +468,12 @@
  "siteCheck": {
   "csCombined": {
    "site": 13666,
-   "widget": 13666,
-   "match": true
+   "widget": 13681,
+   "match": false
   },
   "csAccounts": {
-   "LuxScythe": true,
-   "Scythe_2": true
+   "LuxScythe": false,
+   "Scythe_2": false
   },
   "rlMain": {
    "match": false
