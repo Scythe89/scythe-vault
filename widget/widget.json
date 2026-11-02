@@ -1,7 +1,7 @@
 {
  "_comment": "REAL data exported by /workspace/widget/scripts/export_widget.py; null = not available in the source files.",
  "schema": 3,
- "generatedAt": "2026-11-01T07:23:22-06:00",
+ "generatedAt": "2026-11-01T23:29:08-06:00",
  "dataDate": "2026-11-01",
  "links": {
   "site": "https://scythe89.github.io/scythe-vault/",
@@ -63,7 +63,7 @@
   ],
   "signals": {
    "date": "2026-11-01",
-   "sell": 61,
+   "sell": 62,
    "hold": 2,
    "items": [
     {
@@ -315,7 +315,7 @@
      "signal": "list_now"
     }
    ],
-   "needYou": 61
+   "needYou": 62
   },
   "movers": [
    {
@@ -379,16 +379,16 @@
  },
  "rl": {
   "account": "Scythe",
-  "snapshotDate": "2026-10-31",
-  "prevSessionDate": "2026-10-25",
+  "snapshotDate": "2026-11-01",
+  "prevSessionDate": "2026-10-31",
   "main": {
    "key": "2s",
    "playlist": "Ranked Doubles 2v2",
    "rank": "Champion III",
-   "division": "Division III",
-   "mmr": 1375,
-   "matches": 48,
-   "prevMmr": 1374,
+   "division": "Division II",
+   "mmr": 1366,
+   "matches": 51,
+   "prevMmr": 1375,
    "prevRank": "Champion III",
    "prevDivision": "Division III"
   },
@@ -398,8 +398,8 @@
     "playlist": "Ranked Standard 3v3",
     "rank": "Champion I",
     "division": "Division I",
-    "mmr": 1089,
-    "matches": 37,
+    "mmr": 1074,
+    "matches": 43,
     "prevMmr": 1089,
     "prevRank": "Champion I",
     "prevDivision": "Division I"
@@ -417,7 +417,7 @@
    }
   ],
   "hours": {
-   "main": 7249.0,
+   "main": 7250.0,
    "alt": 1245.9,
    "prevMain": 7249.0,
    "prevAlt": 1245.9,
@@ -425,8 +425,8 @@
    "altName": "Scythe 2"
   },
   "lastSession": {
-   "date": null,
-   "matches": 2
+   "date": "Nov 1",
+   "matches": 3
   }
  },
  "targets": [
@@ -475,13 +475,13 @@
  ],
  "siteCheck": {
   "csCombined": {
-   "site": 13681,
+   "site": 13771,
    "widget": 13771,
-   "match": false
+   "match": true
   },
   "csAccounts": {
-   "LuxScythe": false,
-   "Scythe_2": false
+   "LuxScythe": true,
+   "Scythe_2": true
   },
   "rlMain": {
    "match": false
