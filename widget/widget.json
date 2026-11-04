@@ -1,7 +1,7 @@
 {
  "_comment": "REAL data exported by /workspace/widget/scripts/export_widget.py; null = not available in the source files.",
  "schema": 3,
- "generatedAt": "2026-11-03T07:24:11-06:00",
+ "generatedAt": "2026-11-03T23:23:22-06:00",
  "dataDate": "2026-11-03",
  "links": {
   "site": "https://scythe89.github.io/scythe-vault/",
@@ -22,7 +22,7 @@
       "totalItems": 1596,
       "uniqueItems": 710,
       "marketableItems": 1568,
-      "value": 12696.08,
+      "value": 12696.3,
       "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
       "topItemValue": 1858.64
      },
@@ -363,18 +363,18 @@
  },
  "rl": {
   "account": "Scythe",
-  "snapshotDate": "2026-11-02",
-  "prevSessionDate": "2026-10-31",
+  "snapshotDate": "2026-11-03",
+  "prevSessionDate": "2026-11-02",
   "main": {
    "key": "2s",
    "playlist": "Ranked Doubles 2v2",
    "rank": "Champion III",
    "division": "Division II",
-   "mmr": 1366,
-   "matches": 51,
-   "prevMmr": 1375,
+   "mmr": 1356,
+   "matches": 52,
+   "prevMmr": 1366,
    "prevRank": "Champion III",
-   "prevDivision": "Division III"
+   "prevDivision": "Division II"
   },
   "others": [
    {
@@ -382,9 +382,9 @@
     "playlist": "Ranked Standard 3v3",
     "rank": "Champion I",
     "division": "Division I",
-    "mmr": 1074,
-    "matches": 43,
-    "prevMmr": 1089,
+    "mmr": 1092,
+    "matches": 47,
+    "prevMmr": 1074,
     "prevRank": "Champion I",
     "prevDivision": "Division I"
    },
@@ -401,16 +401,16 @@
    }
   ],
   "hours": {
-   "main": 7250.0,
+   "main": 7251.0,
    "alt": 1245.9,
-   "prevMain": 7249.0,
+   "prevMain": 7250.0,
    "prevAlt": 1245.9,
    "mainName": "Scythe",
    "altName": "Scythe 2"
   },
   "lastSession": {
-   "date": "Nov 1",
-   "matches": 3
+   "date": null,
+   "matches": 1
   }
  },
  "targets": [
@@ -459,12 +459,12 @@
  ],
  "siteCheck": {
   "csCombined": {
-   "site": 13676,
-   "widget": 13698,
-   "match": false
+   "site": 13699,
+   "widget": 13699,
+   "match": true
   },
   "csAccounts": {
-   "LuxScythe": false,
+   "LuxScythe": true,
    "Scythe_2": true
   },
   "rlMain": {
