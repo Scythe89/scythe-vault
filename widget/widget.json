@@ -1,7 +1,7 @@
 {
  "_comment": "REAL data exported by /workspace/widget/scripts/export_widget.py; null = not available in the source files.",
  "schema": 3,
- "generatedAt": "2026-11-06T07:37:09-06:00",
+ "generatedAt": "2026-11-06T23:30:02-06:00",
  "dataDate": "2026-11-06",
  "links": {
   "site": "https://scythe89.github.io/scythe-vault/",
@@ -22,9 +22,9 @@
       "totalItems": 1596,
       "uniqueItems": 710,
       "marketableItems": 1568,
-      "value": 12758.92,
+      "value": 12680.18,
       "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
-      "topItemValue": 1858.64
+      "topItemValue": 1919.29
      },
      {
       "date": "2026-11-05",
@@ -45,7 +45,7 @@
       "totalItems": 264,
       "uniqueItems": 106,
       "marketableItems": 256,
-      "value": 999.71,
+      "value": 970.58,
       "topItem": "★ Flip Knife | Urban Masked (Field-Tested)",
       "topItemValue": 149.5
      },
@@ -371,16 +371,16 @@
  },
  "rl": {
   "account": "Scythe",
-  "snapshotDate": "2026-11-05",
-  "prevSessionDate": "2026-11-02",
+  "snapshotDate": "2026-11-06",
+  "prevSessionDate": "2026-11-05",
   "main": {
    "key": "2s",
    "playlist": "Ranked Doubles 2v2",
    "rank": "Champion III",
    "division": "Division II",
-   "mmr": 1356,
-   "matches": 52,
-   "prevMmr": 1366,
+   "mmr": 1365,
+   "matches": 53,
+   "prevMmr": 1356,
    "prevRank": "Champion III",
    "prevDivision": "Division II"
   },
@@ -392,7 +392,7 @@
     "division": "Division I",
     "mmr": 1092,
     "matches": 47,
-    "prevMmr": 1074,
+    "prevMmr": 1092,
     "prevRank": "Champion I",
     "prevDivision": "Division I"
    },
@@ -409,15 +409,15 @@
    }
   ],
   "hours": {
-   "main": 7251.0,
+   "main": 7252.0,
    "alt": 1245.9,
-   "prevMain": 7250.0,
+   "prevMain": 7251.0,
    "prevAlt": 1245.9,
    "mainName": "Scythe",
    "altName": "Scythe 2"
   },
   "lastSession": {
-   "date": null,
+   "date": "Nov 6",
    "matches": 1
   }
  },
@@ -467,12 +467,12 @@
  ],
  "siteCheck": {
   "csCombined": {
-   "site": 13782,
-   "widget": 13759,
-   "match": false
+   "site": 13651,
+   "widget": 13651,
+   "match": true
   },
   "csAccounts": {
-   "LuxScythe": false,
+   "LuxScythe": true,
    "Scythe_2": true
   },
   "rlMain": {
