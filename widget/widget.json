@@ -1,8 +1,8 @@
 {
  "_comment": "REAL data exported by /workspace/widget/scripts/export_widget.py; null = not available in the source files.",
  "schema": 3,
- "generatedAt": "2026-11-08T23:26:31-06:00",
- "dataDate": "2026-11-08",
+ "generatedAt": "2026-11-09T07:32:28-06:00",
+ "dataDate": "2026-11-09",
  "links": {
   "site": "https://scythe89.github.io/scythe-vault/",
   "csPage": "https://scythe89.github.io/scythe-vault/#daily",
@@ -12,26 +12,26 @@
   "rlPage": "https://scythe89.github.io/scythe-vault/rl.html"
  },
  "cs": {
-  "combinedPrevious": 13768.76,
+  "combinedPrevious": 13815.06,
   "accounts": [
    {
     "account": "LuxScythe",
     "rows": [
+     {
+      "date": "2026-11-09",
+      "totalItems": 1596,
+      "uniqueItems": 710,
+      "marketableItems": 1568,
+      "value": 12805.32,
+      "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
+      "topItemValue": 1858.64
+     },
      {
       "date": "2026-11-08",
       "totalItems": 1596,
       "uniqueItems": 710,
       "marketableItems": 1568,
       "value": 12816.03,
-      "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
-      "topItemValue": 1858.64
-     },
-     {
-      "date": "2026-11-07",
-      "totalItems": 1596,
-      "uniqueItems": 710,
-      "marketableItems": 1568,
-      "value": 12772.96,
       "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
       "topItemValue": 1858.64
      }
@@ -41,6 +41,15 @@
     "account": "Scythe_2",
     "rows": [
      {
+      "date": "2026-11-09",
+      "totalItems": 264,
+      "uniqueItems": 106,
+      "marketableItems": 256,
+      "value": 996.89,
+      "topItem": "★ Flip Knife | Urban Masked (Field-Tested)",
+      "topItemValue": 149.5
+     },
+     {
       "date": "2026-11-08",
       "totalItems": 264,
       "uniqueItems": 106,
@@ -48,24 +57,23 @@
       "value": 999.03,
       "topItem": "★ Flip Knife | Urban Masked (Field-Tested)",
       "topItemValue": 149.5
-     },
-     {
-      "date": "2026-11-07",
-      "totalItems": 264,
-      "uniqueItems": 106,
-      "marketableItems": 256,
-      "value": 995.8,
-      "topItem": "★ Flip Knife | Urban Masked (Field-Tested)",
-      "topItemValue": 149.5
      }
     ]
    }
   ],
   "signals": {
-   "date": "2026-11-08",
-   "sell": 59,
+   "date": "2026-11-09",
+   "sell": 58,
    "hold": 0,
    "items": [
+    {
+     "name": "ESL One Katowice 2015 Challengers (Holo-Foil)",
+     "account": "LuxScythe",
+     "price": 401.2806,
+     "avg30": 399.8847,
+     "pct": 0.35,
+     "signal": "list_now"
+    },
     {
      "name": "Autograph Capsule | Challengers (Foil) | Cologne 2016",
      "account": "LuxScythe",
@@ -77,33 +85,25 @@
     {
      "name": "MLG Columbus 2016 Challengers (Holo-Foil)",
      "account": "LuxScythe",
-     "price": 46.2096,
-     "avg30": 45.3255,
-     "pct": 1.95,
+     "price": 46.8626,
+     "avg30": 45.4048,
+     "pct": 3.21,
      "signal": "list_now"
     },
     {
      "name": "Cologne 2016 Challengers (Holo-Foil)",
      "account": "LuxScythe",
-     "price": 47.2335,
-     "avg30": 44.4331,
-     "pct": 6.3,
+     "price": 48.2273,
+     "avg30": 44.191,
+     "pct": 9.13,
      "signal": "list_now"
     },
     {
      "name": "MLG Columbus 2016 Legends (Holo-Foil)",
      "account": "LuxScythe",
-     "price": 42.3325,
-     "avg30": 42.0971,
-     "pct": 0.56,
-     "signal": "list_now"
-    },
-    {
-     "name": "Autograph Capsule | Legends (Foil) | Cologne 2016",
-     "account": "LuxScythe",
-     "price": 47.198,
-     "avg30": 45.6416,
-     "pct": 3.41,
+     "price": 42.3501,
+     "avg30": 42.1989,
+     "pct": 0.36,
      "signal": "list_now"
     },
     {
@@ -118,24 +118,16 @@
      "name": "Krakow 2017 Challengers (Holo-Foil)",
      "account": "LuxScythe",
      "price": 26.4842,
-     "avg30": 25.1107,
-     "pct": 5.47,
+     "avg30": 25.029,
+     "pct": 5.81,
      "signal": "list_now"
     },
     {
      "name": "ESL One Cologne 2015 Challengers (Foil)",
      "account": "LuxScythe",
      "price": 43.6179,
-     "avg30": 42.7223,
-     "pct": 2.1,
-     "signal": "list_now"
-    },
-    {
-     "name": "Boston 2018 Minor Challengers with Flash Gaming (Holo-Foil)",
-     "account": "LuxScythe",
-     "price": 37.32,
-     "avg30": 35.5724,
-     "pct": 4.91,
+     "avg30": 42.6554,
+     "pct": 2.26,
      "signal": "list_now"
     },
     {
@@ -149,9 +141,9 @@
     {
      "name": "Krakow 2017 Challengers Autograph Capsule",
      "account": "LuxScythe",
-     "price": 24.3203,
-     "avg30": 24.2317,
-     "pct": 0.37,
+     "price": 25.4273,
+     "avg30": 24.3842,
+     "pct": 4.28,
      "signal": "list_now"
     },
     {
@@ -173,149 +165,141 @@
     {
      "name": "Boston 2018 Minor Challengers with Flash Gaming Autograph Capsule",
      "account": "LuxScythe",
-     "price": 16.51,
-     "avg30": 16.3575,
-     "pct": 0.93,
-     "signal": "list_now"
-    },
-    {
-     "name": "Boston 2018 Attending Legends Autograph Capsule",
-     "account": "LuxScythe",
-     "price": 12.235,
-     "avg30": 11.6584,
-     "pct": 4.95,
+     "price": 17.0439,
+     "avg30": 16.3777,
+     "pct": 4.07,
      "signal": "list_now"
     },
     {
      "name": "Katowice 2019 Legends Autograph Capsule",
      "account": "LuxScythe",
-     "price": 5.6501,
-     "avg30": 5.242,
-     "pct": 7.79,
-     "signal": "list_now"
-    },
-    {
-     "name": "Antwerp 2022 Legends Autograph Capsule",
-     "account": "LuxScythe",
-     "price": 0.358,
-     "avg30": 0.357,
-     "pct": 0.29,
+     "price": 5.5686,
+     "avg30": 5.2382,
+     "pct": 6.31,
      "signal": "list_now"
     },
     {
      "name": "Antwerp 2022 Champions Autograph Capsule",
      "account": "LuxScythe",
-     "price": 0.4316,
-     "avg30": 0.4144,
-     "pct": 4.15,
+     "price": 0.4285,
+     "avg30": 0.4137,
+     "pct": 3.57,
+     "signal": "list_now"
+    },
+    {
+     "name": "Rio 2022 Legends Autograph Capsule",
+     "account": "LuxScythe",
+     "price": 0.3134,
+     "avg30": 0.3095,
+     "pct": 1.24,
      "signal": "list_now"
     },
     {
      "name": "Rio 2022 Legends Sticker Capsule",
      "account": "LuxScythe",
-     "price": 0.3413,
-     "avg30": 0.3383,
-     "pct": 0.88,
+     "price": 0.3396,
+     "avg30": 0.3384,
+     "pct": 0.34,
      "signal": "list_now"
     },
     {
      "name": "Antwerp 2022 Challengers Sticker Capsule",
      "account": "LuxScythe",
-     "price": 0.2987,
-     "avg30": 0.2762,
-     "pct": 8.16,
+     "price": 0.2942,
+     "avg30": 0.2757,
+     "pct": 6.71,
      "signal": "list_now"
     },
     {
      "name": "Rio 2022 Contenders Autograph Capsule",
      "account": "LuxScythe",
-     "price": 0.3379,
-     "avg30": 0.3194,
-     "pct": 5.8,
+     "price": 0.3335,
+     "avg30": 0.3187,
+     "pct": 4.64,
      "signal": "list_now"
     },
     {
      "name": "Budapest 2025 Contenders Autograph Capsule",
      "account": "LuxScythe",
-     "price": 0.2717,
-     "avg30": 0.2615,
-     "pct": 3.89,
+     "price": 0.2733,
+     "avg30": 0.2618,
+     "pct": 4.39,
      "signal": "list_now"
     },
     {
      "name": "Budapest 2025 Champions Autograph Capsule",
      "account": "LuxScythe",
      "price": 0.2793,
-     "avg30": 0.2771,
-     "pct": 0.78,
+     "avg30": 0.2776,
+     "pct": 0.62,
      "signal": "list_now"
     },
     {
      "name": "Budapest 2025 Challengers Autograph Capsule",
      "account": "LuxScythe",
      "price": 0.2599,
-     "avg30": 0.2555,
-     "pct": 1.73,
+     "avg30": 0.2553,
+     "pct": 1.8,
      "signal": "list_now"
     },
     {
      "name": "Rio 2022 Contenders Sticker Capsule",
      "account": "LuxScythe",
      "price": 0.2829,
-     "avg30": 0.263,
-     "pct": 7.57,
+     "avg30": 0.2637,
+     "pct": 7.27,
      "signal": "list_now"
     },
     {
      "name": "CS20 Sticker Capsule",
      "account": "LuxScythe",
      "price": 0.8527,
-     "avg30": 0.8186,
-     "pct": 4.16,
+     "avg30": 0.8187,
+     "pct": 4.15,
      "signal": "list_now"
     },
     {
      "name": "10 Year Birthday Sticker Capsule",
      "account": "LuxScythe",
      "price": 0.8529,
-     "avg30": 0.814,
-     "pct": 4.79,
+     "avg30": 0.8164,
+     "pct": 4.47,
      "signal": "list_now"
     },
     {
      "name": "Paris 2023 Contenders Autograph Capsule",
      "account": "LuxScythe",
      "price": 0.1134,
-     "avg30": 0.1115,
-     "pct": 1.68,
+     "avg30": 0.1116,
+     "pct": 1.63,
+     "signal": "list_now"
+    },
+    {
+     "name": "Paris 2023 Challengers Sticker Capsule",
+     "account": "LuxScythe",
+     "price": 0.0977,
+     "avg30": 0.097,
+     "pct": 0.68,
      "signal": "list_now"
     },
     {
      "name": "Paris 2023 Contenders Sticker Capsule",
      "account": "LuxScythe",
-     "price": 0.0974,
+     "price": 0.0968,
      "avg30": 0.0952,
-     "pct": 2.27,
-     "signal": "list_now"
-    },
-    {
-     "name": "2020 RMR Legends",
-     "account": "LuxScythe",
-     "price": 0.2391,
-     "avg30": 0.2385,
-     "pct": 0.27,
+     "pct": 1.63,
      "signal": "list_now"
     },
     {
      "name": "2020 RMR Challengers",
      "account": "LuxScythe",
-     "price": 0.2338,
-     "avg30": 0.231,
-     "pct": 1.21,
+     "price": 0.2351,
+     "avg30": 0.2311,
+     "pct": 1.73,
      "signal": "list_now"
     }
    ],
-   "needYou": 59
+   "needYou": 58
   },
   "movers": [
    {
@@ -338,9 +322,17 @@
     "name": "StatTrak™ AK-47 | Redline (Field-Tested)",
     "short": "ST AK Redline",
     "account": "LuxScythe",
-    "px": 68.0,
+    "px": 67.5,
     "avg": 86.0,
-    "diff": -18.0
+    "diff": -18.5
+   },
+   {
+    "name": "SSG 08 | Blood in the Water (Minimal Wear)",
+    "short": "SSG 08 Blood in…",
+    "account": "LuxScythe",
+    "px": 115.83,
+    "avg": 102.11,
+    "diff": 13.72
    },
    {
     "name": "ESL One Katowice 2015 Legends (Holo-Foil)",
@@ -351,23 +343,15 @@
     "diff": -11.36
    },
    {
-    "name": "SSG 08 | Blood in the Water (Minimal Wear)",
-    "short": "SSG 08 Blood in…",
+    "name": "AK-47 | Fuel Injector (Battle-Scarred)",
+    "short": "AK Fuel Injector",
     "account": "LuxScythe",
-    "px": 112.3,
-    "avg": 102.11,
-    "diff": 10.19
-   },
-   {
-    "name": "MP9 | Hot Rod (Factory New)",
-    "short": "MP9 Hot Rod",
-    "account": "LuxScythe",
-    "px": 228.16,
-    "avg": 219.66,
-    "diff": 8.5
+    "px": 94.33,
+    "avg": 103.52,
+    "diff": -9.19
    }
   ],
-  "moversSource": "sell_check_detail_2026-11-08.csv",
+  "moversSource": "sell_check_detail_2026-11-09.csv",
   "frameFund": {
    "wallet": 185.53,
    "goal": 1328.0,
@@ -476,12 +460,12 @@
  "siteCheck": {
   "csCombined": {
    "site": 13815,
-   "widget": 13815,
-   "match": true
+   "widget": 13802,
+   "match": false
   },
   "csAccounts": {
-   "LuxScythe": true,
-   "Scythe_2": true
+   "LuxScythe": false,
+   "Scythe_2": false
   },
   "rlMain": {
    "match": false
