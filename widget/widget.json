@@ -1,7 +1,7 @@
 {
  "_comment": "REAL data exported by /workspace/widget/scripts/export_widget.py; null = not available in the source files.",
  "schema": 3,
- "generatedAt": "2026-11-11T07:30:33-06:00",
+ "generatedAt": "2026-11-11T23:28:59-06:00",
  "dataDate": "2026-11-11",
  "links": {
   "site": "https://scythe89.github.io/scythe-vault/",
@@ -22,9 +22,9 @@
       "totalItems": 1596,
       "uniqueItems": 710,
       "marketableItems": 1568,
-      "value": 12779.59,
+      "value": 12749.28,
       "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
-      "topItemValue": 1858.64
+      "topItemValue": 1919.29
      },
      {
       "date": "2026-11-10",
@@ -45,7 +45,7 @@
       "totalItems": 264,
       "uniqueItems": 106,
       "marketableItems": 256,
-      "value": 1011.32,
+      "value": 982.21,
       "topItem": "★ Flip Knife | Urban Masked (Field-Tested)",
       "topItemValue": 149.5
      },
@@ -419,18 +419,18 @@
  },
  "rl": {
   "account": "Scythe",
-  "snapshotDate": "2026-11-10",
-  "prevSessionDate": "2026-11-09",
+  "snapshotDate": "2026-11-11",
+  "prevSessionDate": "2026-11-10",
   "main": {
    "key": "2s",
    "playlist": "Ranked Doubles 2v2",
    "rank": "Champion III",
-   "division": "Division I",
-   "mmr": 1329,
-   "matches": 57,
-   "prevMmr": 1365,
+   "division": "Division II",
+   "mmr": 1337,
+   "matches": 60,
+   "prevMmr": 1329,
    "prevRank": "Champion III",
-   "prevDivision": "Division II"
+   "prevDivision": "Division I"
   },
   "others": [
    {
@@ -451,22 +451,22 @@
     "division": "Division III",
     "mmr": 913,
     "matches": 2,
-    "prevMmr": 897,
+    "prevMmr": 913,
     "prevRank": "Diamond II",
-    "prevDivision": "Division II"
+    "prevDivision": "Division III"
    }
   ],
   "hours": {
    "main": 7254.0,
    "alt": 1245.9,
-   "prevMain": 7252.0,
+   "prevMain": 7254.0,
    "prevAlt": 1245.9,
    "mainName": "Scythe",
    "altName": "Scythe 2"
   },
   "lastSession": {
-   "date": "Nov 10",
-   "matches": 4
+   "date": "Nov 11",
+   "matches": 3
   }
  },
  "targets": [
@@ -515,13 +515,13 @@
  ],
  "siteCheck": {
   "csCombined": {
-   "site": 13716,
-   "widget": 13791,
-   "match": false
+   "site": 13731,
+   "widget": 13731,
+   "match": true
   },
   "csAccounts": {
-   "LuxScythe": false,
-   "Scythe_2": false
+   "LuxScythe": true,
+   "Scythe_2": true
   },
   "rlMain": {
    "match": false
