@@ -1,7 +1,7 @@
 {
  "_comment": "REAL data exported by /workspace/widget/scripts/export_widget.py; null = not available in the source files.",
  "schema": 3,
- "generatedAt": "2026-11-21T07:30:09-06:00",
+ "generatedAt": "2026-11-21T23:26:58-06:00",
  "dataDate": "2026-11-21",
  "links": {
   "site": "https://scythe89.github.io/scythe-vault/",
@@ -323,7 +323,7 @@
  },
  "rl": {
   "account": "Scythe",
-  "snapshotDate": "2026-11-20",
+  "snapshotDate": "2026-11-21",
   "prevSessionDate": "2026-11-16",
   "main": {
    "key": "2s",
@@ -369,7 +369,7 @@
    "altName": "Scythe 2"
   },
   "lastSession": {
-   "date": "Nov 17",
+   "date": null,
    "matches": 3
   }
  },
@@ -419,13 +419,13 @@
  ],
  "siteCheck": {
   "csCombined": {
-   "site": 13303,
+   "site": 13263,
    "widget": 13263,
-   "match": false
+   "match": true
   },
   "csAccounts": {
-   "LuxScythe": false,
-   "Scythe_2": false
+   "LuxScythe": true,
+   "Scythe_2": true
   },
   "rlMain": {
    "match": false
