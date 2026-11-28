@@ -1,7 +1,7 @@
 {
  "_comment": "REAL data exported by /workspace/widget/scripts/export_widget.py; null = not available in the source files.",
  "schema": 3,
- "generatedAt": "2026-11-27T07:32:06-06:00",
+ "generatedAt": "2026-11-27T23:29:17-06:00",
  "dataDate": "2026-11-27",
  "links": {
   "site": "https://scythe89.github.io/scythe-vault/",
@@ -22,7 +22,7 @@
       "totalItems": 1597,
       "uniqueItems": 711,
       "marketableItems": 1569,
-      "value": 12128.59,
+      "value": 12084.3,
       "topItem": "★ Butterfly Knife | Slaughter (Factory New)",
       "topItemValue": 1723.0
      },
@@ -259,15 +259,15 @@
  },
  "rl": {
   "account": "Scythe",
-  "snapshotDate": "2026-11-26",
-  "prevSessionDate": "2026-11-25",
+  "snapshotDate": "2026-11-27",
+  "prevSessionDate": "2026-11-26",
   "main": {
    "key": "2s",
    "playlist": "Ranked Doubles 2v2",
    "rank": "Champion III",
    "division": "Division I",
-   "mmr": 1318,
-   "matches": 68,
+   "mmr": 1328,
+   "matches": 69,
    "prevMmr": 1318,
    "prevRank": "Champion III",
    "prevDivision": "Division I"
@@ -280,7 +280,7 @@
     "division": "Division II",
     "mmr": 1117,
     "matches": 55,
-    "prevMmr": 1116,
+    "prevMmr": 1117,
     "prevRank": "Champion I",
     "prevDivision": "Division II"
    },
@@ -299,14 +299,14 @@
   "hours": {
    "main": 7257.0,
    "alt": 1245.9,
-   "prevMain": 7256.0,
+   "prevMain": 7257.0,
    "prevAlt": 1245.9,
    "mainName": "Scythe",
    "altName": "Scythe 2"
   },
   "lastSession": {
    "date": "Nov 26",
-   "matches": 2
+   "matches": 1
   }
  },
  "targets": [
@@ -355,13 +355,13 @@
  ],
  "siteCheck": {
   "csCombined": {
-   "site": 12745,
-   "widget": 12964,
-   "match": false
+   "site": 12919,
+   "widget": 12919,
+   "match": true
   },
   "csAccounts": {
-   "LuxScythe": false,
-   "Scythe_2": false
+   "LuxScythe": true,
+   "Scythe_2": true
   },
   "rlMain": {
    "match": false
